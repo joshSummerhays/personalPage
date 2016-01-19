@@ -1,0 +1,55 @@
+div {
+	border-radius: 5px;
+}
+
+#header {
+    z-index: 1;
+    height: 50px;
+    width: 98.5%;
+    background-color: #668284;
+    position: fixed;
+    margin: 5px 5px 5px 5px;
+}
+#name {
+    float:left;
+	margin-left: 5px;
+	padding-top: -3px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+.left {
+    height: 400px;
+    width: 5%;
+    background-color: #B9D7D9;
+    position: relative;
+	float: left;
+    margin: 60px 5px 10px 5px;
+}
+.right {
+    position: relative;
+	float: right;
+	margin: 60px 0px 0px 5px;
+	width: 94%;
+	height: 400px;
+	background-color: #F4EBC3;
+}
+.maintext {
+    padding: 10px;
+}
+#footer {
+    position: relative;
+    height: 50px;
+    width: 98.5%;
+    background-color: #668284;
+    color: #ffffff;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+    font-size: 14px;
+    clear: both;
+}
+#footer p {
+    positioning: relative;
+    padding-top: 18px;
+    font-size: 16px;
+}
